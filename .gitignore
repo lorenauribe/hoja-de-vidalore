@@ -1,0 +1,6 @@
+echo "# hoja-de-vida" >> README.md 
+git init 
+git add README.md 
+git commit -m "lorena" 
+git add remoto origen https://github.com/lorenauribe/hoja-de-vida.git
+ -u git push origin master
